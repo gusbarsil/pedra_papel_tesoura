@@ -1,16 +1,2 @@
-# pedra_papel_tesoura
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Jogo de Pedra, Papel e Tesoura em Flutter
+Este projeto consiste em um jogo de Pedra, Papel e Tesoura desenvolvido em Flutter. O objetivo principal foi criar uma aplicação simples e interativa, que permita ao usuário jogar contra a máquina (computador).
